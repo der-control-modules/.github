@@ -1,1 +1,1 @@
-# PNNL DER Control Project
+# PNNL DER Control Modules Project
